@@ -1,0 +1,26 @@
+{
+  "name": "bottutorial",
+  "version": "1.0.0",
+  "description": "first chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tims-ais/bottutorial.git"
+  },
+  "author": "April",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tims-ais/bottutorial/issues"
+  },
+  "homepage": "https://github.com/tims-ais/bottutorial#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  }
+}
